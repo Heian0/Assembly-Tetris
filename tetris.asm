@@ -1,8 +1,3 @@
-################ CSC258H1F Winter 2024 Assembly Final Project ##################
-# This file contains our implementation of Tetris.
-#
-# Student 1: Name, Student Number
-# Student 2: Name, Student Number (if applicable)
 ######################## Bitmap Display Configuration ########################
 # - Unit width in pixels:       41
 # - Unit height in pixels:      22
